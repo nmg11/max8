@@ -1,6 +1,3 @@
 admin:admin123
 a:a
-sd:sda
-zsc:zcx
-ilyushska tankist:yest' probitie
-Mikasa:ANIME1488
+user:123
